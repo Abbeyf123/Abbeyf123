@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abbey</h1>
-<h3 align="center">I’m a passionate frontend developer with 1-2 years of experience, specializing in building modern, responsive, and high-performance web applications</h3>
+<h3 align="center">I’m a passionate frontend developer with 2 years of experience, specializing in building modern, responsive, and high-performance web applications</h3>
 
 - 🔭 I've created an ai chatbot powered by Germini [GemB](https://gemb-projectlabs.vercel.app/)
 
