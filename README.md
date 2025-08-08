@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://projectlabs-portfolio.vercel.app/](https://projectlabs-portfolio.vercel.app/)
 
-- 📝 I regularly write on [https://www.threads.net/@projectlabsofficial](https://www.threads.net/@projectlabsofficial)
+- 📝 I regularly write on [https://www.linkedin.com/in/oladejo-shittu-31a97b347](https://www.linkedin.com/in/oladejo-shittu-31a97b347)
 
 - 📫 How to reach me **project2022os@gmail.com**
 
